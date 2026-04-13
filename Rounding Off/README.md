@@ -13,8 +13,6 @@ For example:
 
    Hint: Use the toFixed() builtin method to round off.
 
----
-
 ## Example
 
 For this input

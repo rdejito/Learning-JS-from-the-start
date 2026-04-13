@@ -1,7 +1,5 @@
 ## Write a function to convert an angle given in degrees t radians.
 
----
-
 ### Instructions
 
 An angle can be converted to radians using the formula `radians = (pi/180) * degrees`.
