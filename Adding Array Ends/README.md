@@ -20,4 +20,4 @@ the result should be:
 6
 ```
 
-Reason: Sum of the first element 1 and last element 5 results 6.
+**Reason**: Sum of the first element 1 and last element 5 results 6.

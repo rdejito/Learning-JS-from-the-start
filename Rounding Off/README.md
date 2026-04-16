@@ -28,4 +28,4 @@ the result should be:
 "0.78"
 ```
 
-##### Reason: ``Rounding off `0.778899` to `2` decimal places results in `"0.78"`.``
+**Reason**: Rounding off `0.778899` to `2` decimal places results in `"0.78"`.

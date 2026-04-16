@@ -20,4 +20,4 @@ the result should be:
 "1-2-3-4-5"
 ```
 
-Reason: Putting dashes between each digit in 12345 results "1-2-3-4-5".
+**Reason**: Putting dashes between each digit in 12345 results "1-2-3-4-5".

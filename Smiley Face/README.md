@@ -18,4 +18,4 @@ the result should be:
 ":( :( :( All smiles here :("
 ```
 
-Reason: Replacing `:)` with `:(` in `":) :) :) All smiles here :)"` results `":( :( :( All smiles here :("`.
+**Reason**: Replacing `:)` with `:(` in `":) :) :) All smiles here :)"` results `":( :( :( All smiles here :("`.

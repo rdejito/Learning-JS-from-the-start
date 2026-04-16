@@ -22,4 +22,4 @@ the result should be:
 "Hello World"
 ```
 
-Reason: Capitalizing the first letter of each word in `"hello world"` gives us `"Hello World"`.
+**Reason**: Capitalizing the first letter of each word in `"hello world"` gives us `"Hello World"`.
