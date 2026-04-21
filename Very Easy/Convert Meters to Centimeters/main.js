@@ -3,3 +3,4 @@ function metersToCentimeters(meters) {
 }
 
 console.log(metersToCentimeters(5.2));
+  
